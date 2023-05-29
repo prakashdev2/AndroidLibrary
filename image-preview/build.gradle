@@ -54,7 +54,7 @@ dependencies {
 
                 groupId = 'com.github.mprakashdev2'
                 artifactId = 'image-preview-compose'
-                version = '6.0'
+                version = '7.0'
 
                 afterEvaluate {
                     from components.release
